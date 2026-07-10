@@ -1,9 +1,9 @@
 requests
+psutil
 pyjwt
 protobuf==5.27.2
-flask
-psutil
-urllib3
 protobuf-decoder
+cfonts
 pycryptodome
-telebot
+flask
+urllib3
