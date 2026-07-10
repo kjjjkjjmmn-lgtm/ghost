@@ -1,9 +1,7 @@
+Flask[async]
 requests
-psutil
-pyjwt
-protobuf==5.27.2
-protobuf-decoder
-cfonts
+aiohttp
+googleapis-common-protos
 pycryptodome
-flask
-urllib3
+protobuf
+Werkzeug
